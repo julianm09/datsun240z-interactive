@@ -237,7 +237,7 @@ const Marker = styled.span`
 `;
 
 const Image = styled(a.img)`
-  width: 80%;
+  width: 50vh;
   -webkit-user-drag: none;
   -khtml-user-drag: none;
   -moz-user-drag: none;
